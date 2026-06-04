@@ -1,0 +1,23 @@
+streamlit==1.46.0
+pandas==2.3.0
+numpy==2.3.0
+plotly==6.1.2
+scikit-learn==1.7.0
+scipy==1.16.0
+joblib==1.5.1
+threadpoolctl==3.6.0
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+
+pip install -r requirements.txt
+
+matplotlib
+openpyxl
+seaborn
+statsmodels
+xgboost
